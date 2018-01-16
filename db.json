@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "X-box",
+      "type": "games",
+      "premium": true,
+      "description": "This product is a premium product in games"
+    },
+    {
+      "id": 6,
+      "name": "Ninza game",
+      "type": "games",
+      "premium": true,
+      "description": "This product is a premium product in games"
+    }
+  ],
+
+  "productTypes":[
+            {"code":"none","value":"None"},
+          {"code":"games", "value":"Games"}, 
+          {"code":"electronics","value":"Electronics"},
+          {"code":"books", "value":"Books"}
+   ]
+}
